@@ -833,7 +833,7 @@ Pour déployer et tester notre code frontend, nous avons utilisé GitHub Pages. 
 \noindent
 \begin{tabular}
 {@{}m{0.8\textwidth}@{\hspace{1em}}m{0.15\textwidth}@{}}
-Pour le développement du back-end de notre plateforme TAKWINI, nous avons utilisé FastAPI, un framework moderne et rapide basé sur le langage Python. FastAPI est conçu pour la création d'API web performantes, en tirant parti des annotations de type pour simplifier le développement et améliorer la lisibilité du code. Ce framework offre de nombreuses bibliothèques intégrées qui accélèrent le processus de développement, tout en assurant une meilleure gestion des requêtes HTTP, de la validation des données et de la documentation automatique des API. Grâce à sa simplicité et sa performance, FastAPI s’est révélé être un excellent choix pour construire une architecture backend robuste, évolutive et facilement maintenable.
+Pour le développement du back-end de notre plateforme TAKWINI, nous avons utilisé FastAPI, un framework moderne et rapide basé sur le langage Python. FastAPI est conçu pour la création d'API web performantes, en tirant parti des annotations de type pour simplifier le développement et améliorer la lisibilité du code. Ce framework offre de nombreuses bibliothèques intégrées qui accélèrent le processus de développement. Par exemple, SQLAlchemy, un ORM (Object-Relational Mapping), permet d’intégrer la base de données et de la manipuler à l’aide d’objets Python, au lieu d’écrire directement des requêtes SQL brutes. De même, Python-jose est utilisé pour la gestion des JWT (JSON Web Tokens), ce qui permet de sécuriser la communication entre le client et le serveur, tout en assurant une meilleure gestion des requêtes HTTP, de la validation des données et de la documentation automatique des API. Grâce à sa simplicité et sa performance, FastAPI s’est révélé être un excellent choix pour construire une architecture backend robuste, évolutive et facilement maintenable.
 
 \vspace{0,2cm}
 
@@ -854,6 +854,7 @@ Pour le développement du back-end de notre plateforme TAKWINI, nous avons utili
 Nous avons également utilisé PostgreSQL comme système de gestion de base de données relationnelle. Il nous a permis de stocker et d’organiser les données de manière fiable, tout en garantissant l’intégrité et la cohérence des informations. 
 
 la base de données a été déployée sur Railway, une plateforme cloud qui permet une gestion flexible et rapide des bases de données à distance.
+Pour l’administration et la visualisation des données, nous avons utilisé pgAdmin 4, un outil graphique qui facilite la gestion des tables, l’exécution de requêtes SQL, et le suivi global de la base de données.
 &
 \includegraphics[width=\linewidth]{postgre.png} % <-- adapte ici le nom réel de ton fichier
 \end{tabular}
