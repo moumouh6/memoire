@@ -1,0 +1,164 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{GIG}{book}{}
+      \list{publisher}{1}{%
+        {GIG Algeria}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{note}{\href{https://gig.dz/}{Lien}}
+    \endentry
+    \entry{Linkedin-Learning}{book}{}
+      \list{publisher}{1}{%
+        {LinkedIn Learning}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{note}{\href{https://www.linkedin.com/learning/}{Lien}}
+    \endentry
+    \entry{Udemy}{book}{}
+      \list{publisher}{1}{%
+        {Udemy business}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{note}{\href{https://business.udemy.com/fr/?utm_source=organic-search&utm_medium=google}{Lien}}
+    \endentry
+    \entry{UML}{book}{}
+      \list{publisher}{1}{%
+        {lucidchart}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://www.lucidchart.com/pages/fr/langage-uml}{Lien}}
+      \field{title}{Qu'est-ce que le langage UML ?}
+    \endentry
+    \entry{Acteur}{book}{}
+      \list{publisher}{1}{%
+        {IBM}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://www.ibm.com/docs/fr/rational-soft-arch/9.6.1?topic=ss8pj7-9-6-1-com-ibm-xtools-tutorial-piggybank-topics-module1-exercise1-4piggybank-html}{Lien}}
+      \field{title}{Identification des acteurs}
+      \field{year}{2021}
+    \endentry
+    \entry{Usecase}{book}{}
+      \list{publisher}{1}{%
+        {cso-at-work}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://www.cso-at-work.com/blog/use-case-def-comprendre-et-appliquer-les-cas-dutilisation-en-entreprise\#definition-et-importance-des-use-cases}{Lien}}
+      \field{title}{Définition et importance des use cases}
+    \endentry
+    \entry{classe}{book}{}
+      \list{publisher}{1}{%
+        {visual-paradigm}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/}{Lien}}
+      \field{title}{What is Class Diagram?}
+    \endentry
+    \entry{drawiointerface}{book}{}
+      \list{publisher}{1}{%
+        {draw.io}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://app.diagrams.net/}{Lien}}
+      \field{title}{Drawio interface}
+    \endentry
+    \entry{draw-io}{book}{}
+      \list{publisher}{1}{%
+        {tice-education}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://www.tice-education.fr/tous-les-articles-er-ressources/articles-internet/819-draw-io-un-outil-pour-dessiner-des-diagrammes-en-ligne}{Lien}}
+      \field{title}{Draw.io : un outil pour dessiner des diagrammes en ligne}
+    \endentry
+    \entry{figmainterface}{book}{}
+      \list{publisher}{1}{%
+        {draw.io}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://www.figma.com/fr-fr/}{Lien}}
+      \field{title}{figma interface}
+    \endentry
+    \entry{figma}{book}{}
+      \list{publisher}{1}{%
+        {andacademy}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://www.andacademy.com/resources/blog/graphic-design/what-is-figma/\#What}{Lien}}
+      \field{title}{What is Figma? \& What is Figma used for?}
+    \endentry
+    \entry{github}{book}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://github.com/}{Lien}}
+      \field{title}{github interface}
+    \endentry
+    \entry{FastApi}{book}{}
+      \list{publisher}{1}{%
+        {fastapi}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://fastapi.tiangolo.com/}{Lien}}
+      \field{title}{FastApi framework}
+    \endentry
+    \entry{postgresql}{book}{}
+      \list{publisher}{1}{%
+        {postgresql}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://www.postgresql.org/}{Lien}}
+      \field{title}{PostgreSQL: The World's Most Advanced Open Source Relational Database}
+    \endentry
+    \entry{cloudinary}{book}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{note}{\href{https://cloudinary.com/}{Lien}}
+      \field{title}{Cloudinary interface}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
